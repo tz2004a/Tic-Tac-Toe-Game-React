@@ -1,7 +1,5 @@
 # Here is a video overview of my project
-https://github.com/user-attachments/assets/41bec93f-4b85-487c-a09b-f32b00aa9973
-
-
+https://github.com/user-attachments/assets/414398d5-e65c-4fbc-a566-9872fc9823bf
 
 # Getting Started with Create React App
 
